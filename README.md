@@ -1,1 +1,9 @@
 # TreasureHuntGamewithPython
+
+For this project I was given the following code the environment, experience for replay, build model, and the 'play game'. I was given a skeleton implementation of the game in order to create a Q-Training algorithim for the pirate agent in the Treasure Hunt Game. The name of the game is how you solve it, by finding the treasure, and whoever finds the treasure first wins. The agent specifications given included an 8x8 matrix that the agent would move around in, starting at the top left. I told the agent to learn with the epsilon algorithim that trains the model to use experience replay to store the episode in and learn from it. 
+
+Computer scientists is a broad term of people that study, and develop application of software and systems. Computer scientists shape how are technology is made from software to systems to networks. The importance of their work is crucial to our modern day in age where everything is technology based. 
+
+I approach a problem like a computer science by doing the folling: I understand the problem at hand before moving forward, writing things down as needed. Then I gather the neccessary information to start working on the problem, I plan and desgin my steps, and then implement. I follow these same steps now for any problem that comes my way. By taking the time it needs before moving foward with your problem can help improve the outcome. 
+
+My ethical responsibilites to the end user and the organization starts in your first step when programming, or solving a problem. It is of the utmost importance to hold yourself to an ethical standard for many reasons, some of which are user privacy and security, trasnparency and accountability, fairness, honesty and intregity, and compliance with laws and regulations. I believe that ethical concerns should be address when your at the drawing board for your development. It is crucial for end users to feel comfortable with the development of technology. 
